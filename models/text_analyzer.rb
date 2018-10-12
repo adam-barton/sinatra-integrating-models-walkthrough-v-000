@@ -41,4 +41,3 @@ class TextAnalyzer
   end
   end
 
-end
